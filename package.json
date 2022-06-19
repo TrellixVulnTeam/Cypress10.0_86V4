@@ -1,0 +1,34 @@
+{
+  "name": "Cypress",
+  "version": "1.0.0",
+  "description": "Working on cypress 10.0. and other thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bot-Arpit/Cypress10.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bot-Arpit/Cypress10.0/issues"
+  },
+  "homepage": "https://github.com/Bot-Arpit/Cypress10.0#readme",
+  "dependencies": {
+    "cypress": "^10.1.0"
+  },
+  "devDependencies": {
+    "cypress-image-snapshot": "^4.0.1",
+    "cypress-multi-reporters": "^1.6.1",
+    "cypress-wait-until": "^1.7.2",
+    "install": "^0.13.0",
+    "mocha": "^10.0.0",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.2.1",
+    "mochawesome-report-generator": "^6.2.0",
+    "npm": "^8.12.2"
+  }
+}
